@@ -27,3 +27,11 @@ import insertMine from "./insert";
 // );
 
 // insertMine("Do what you gotta do so you can do what you wanna do.");
+
+// insertMine("Life's barely long enough to get good at one thing. So be careful what you get good at.");
+
+// insertMine("No matter how hard you try you won't get more than 86400 seconds in a day, make it count.");
+
+// insertMine("if you change nothing, nothing will change.");
+
+// insertMine("If you pray for the rain, you gotta deal with the mud too. That's part of it.");
