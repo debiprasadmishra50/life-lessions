@@ -23,7 +23,7 @@ function Mine(props: MineProps) {
         <thead>
           <tr>
             <th className="centered">#</th>
-            <th style={{ fontWeight: "bold", textAlign: "center" }}>Lessions</th>
+            <th style={{ fontWeight: "bold", textAlign: "center" }}>Lessons</th>
           </tr>
         </thead>
         <tbody>{renderMain(props.mine)}</tbody>
