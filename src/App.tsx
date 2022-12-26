@@ -19,7 +19,7 @@ function App() {
 
   return (
     <Container fluid className="cover">
-      <h1 style={{ textAlign: "center", textDecoration: "underline", color: "#000" }}>Life Lessions</h1>
+      <h1 style={{ textAlign: "center", textDecoration: "underline", color: "#000" }}>Life Lessons</h1>
       <Row>
         <Col>
           <section id="main" style={{ maxHeight: "100vh", overflowY: "scroll" }}>

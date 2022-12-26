@@ -23,7 +23,7 @@ function Main(props: MainProps) {
         <thead>
           <tr>
             <th className="centered">#</th>
-            <th style={{ fontWeight: "bold", textAlign: "center" }}>50 Life Lessions by 80 year old man</th>
+            <th style={{ fontWeight: "bold", textAlign: "center" }}>50 Life Lessons by 80 year old man</th>
           </tr>
         </thead>
         <tbody>{renderMain(props.main)}</tbody>
