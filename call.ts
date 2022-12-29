@@ -35,3 +35,7 @@ import insertMine from "./insert";
 // insertMine("if you change nothing, nothing will change.");
 
 // insertMine("If you pray for the rain, you gotta deal with the mud too. That's part of it.");
+
+insertMine(
+  "Life is not measured by the number of breaths we take, but by the moments that take our breath away."
+);
