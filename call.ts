@@ -39,3 +39,9 @@ import insertMine from "./insert";
 // insertMine(
 //   "Life is not measured by the number of breaths we take, but by the moments that take our breath away."
 // );
+
+// insertMine("Every lie we tell incurs a debt to the truth. Sooner or later, that debt is paid.");
+
+// insertMine(
+//   "The things you own end up owning you. It's only after you lose everything that you're free to do anything."
+// );
