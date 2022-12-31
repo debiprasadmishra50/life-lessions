@@ -49,3 +49,5 @@ import insertMine from "./insert";
 // insertMine(
 //   "God is a ludicrous fiction conjured up by inadequates who abnegate all the responsibilities to an invisible magic friend."
 // );
+
+// insertMine("We accept the love we think we deserve.");
