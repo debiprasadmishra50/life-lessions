@@ -10,7 +10,7 @@ import insertMine from "./insert";
 //   "You born alone and you die alone and this world just drops a bunch of rules to make you forget those facts. Never forget that."
 // );
 
-// insertMine("Make mistakes, Learn from them, Don't regret them.");
+// insertMine("Make mistakes, Learn from them, Don't regret them. Because regrets are hardest thing to carry when you get older.");
 
 // insertMine("It's always better to regret for the things that you did than you didn't.");
 
@@ -44,4 +44,8 @@ import insertMine from "./insert";
 
 // insertMine(
 //   "The things you own end up owning you. It's only after you lose everything that you're free to do anything."
+// );
+
+// insertMine(
+//   "God is a ludicrous fiction conjured up by inadequates who abnegate all the responsibilities to an invisible magic friend."
 // );
