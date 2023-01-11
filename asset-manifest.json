@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/life-lessions/static/css/main.24bd3ed7.css",
+    "main.css": "/life-lessions/static/css/main.d33decfd.css",
     "main.js": "/life-lessions/static/js/main.3620e399.js",
     "static/media/background.jpg": "/life-lessions/static/media/background.d31c9d9c85401c1238f7.jpg",
     "index.html": "/life-lessions/index.html",
-    "main.24bd3ed7.css.map": "/life-lessions/static/css/main.24bd3ed7.css.map",
+    "main.d33decfd.css.map": "/life-lessions/static/css/main.d33decfd.css.map",
     "main.3620e399.js.map": "/life-lessions/static/js/main.3620e399.js.map"
   },
   "entrypoints": [
-    "static/css/main.24bd3ed7.css",
+    "static/css/main.d33decfd.css",
     "static/js/main.3620e399.js"
   ]
 }
