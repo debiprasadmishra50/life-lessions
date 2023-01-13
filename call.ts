@@ -51,3 +51,7 @@ import insertMine from "./insert";
 // );
 
 // insertMine("We accept the love we think we deserve.");
+
+// insertMine("You are never wrong to do the right thing.");
+
+// insertMine("If you do what you love, you never have to work a single day in your life.");
