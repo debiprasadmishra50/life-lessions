@@ -7,7 +7,7 @@ import insertMine from "./insert";
 // );
 
 // insertMine(
-//   "You born alone and you die alone and this world just drops a bunch of rules to make you forget those facts. Never forget that."
+//   "You born alone and you die alone and this world just drops a bunch of rules on top of you to make you forget those facts. Never forget that."
 // );
 
 // insertMine("Make mistakes, Learn from them, Don't regret them. Because regrets are hardest thing to carry when you get older.");
