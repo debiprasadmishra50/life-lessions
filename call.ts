@@ -55,3 +55,5 @@ import insertMine from "./insert";
 // insertMine("You are never wrong to do the right thing.");
 
 // insertMine("If you do what you love, you never have to work a single day in your life.");
+
+insertMine("You don't know how fast time goes by until you get there.");
