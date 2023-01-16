@@ -56,4 +56,6 @@ import insertMine from "./insert";
 
 // insertMine("If you do what you love, you never have to work a single day in your life.");
 
-insertMine("You don't know how fast time goes by until you get there.");
+// insertMine("You don't know how fast time goes by until you get there.");
+
+
