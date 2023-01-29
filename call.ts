@@ -58,4 +58,24 @@ import insertMine from "./insert";
 
 // insertMine("You don't know how fast time goes by until you get there.");
 
+// insertMine("Never judge a person until you've walked a mile in their shoes.");
 
+// insertMine(
+//   "Every second of your life will become memories when you are old, You can choose what kind of memories you would want to have."
+// );
+
+// insertMine("Unexpressed emotions will never die. They are buried alive and will come forth in uglier ways.");
+
+// insertMine("The only person with whom you have to compare yourself is you in the past.");
+
+// insertMine("The more perfect a person is on the outside, the more demons they have on the inside.");
+
+// insertMine("When one does not have what one wants, one must want what one has.");
+
+// insertMine("In the small matters trust the mind, in the large ones the heart");
+
+// insertMine(
+//   "We are what we are because we have been what we have been, and what is needed for solving the problems of human life and motives is not moral estimates but more knowledge."
+// );
+
+// insertMine("Shoot for the Moon. Even if you miss, you'll land among the stars");
