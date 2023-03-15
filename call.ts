@@ -85,3 +85,5 @@ import insertMine from "./insert";
 // insertMine("If you focus on what you’ve left behind, you’ll never be able to see what lies ahead.");
 
 // insertMine("The worst prison in the world is a home without peace.");
+
+// insertMine("The distinction between past, present and future is only a stubbornly persistent illusion.");
