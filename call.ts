@@ -79,3 +79,9 @@ import insertMine from "./insert";
 // );
 
 // insertMine("Shoot for the Moon. Even if you miss, you'll land among the stars");
+
+// insertMine("No one ever made a difference by being like everyone else");
+
+// insertMine("If you focus on what you’ve left behind, you’ll never be able to see what lies ahead.");
+
+// insertMine("The worst prison in the world is a home without peace.");
