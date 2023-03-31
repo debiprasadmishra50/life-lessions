@@ -88,18 +88,18 @@ import insertMine from "./insert";
 
 // insertMine("The distinction between past, present and future is only a stubbornly persistent illusion.");
 
-insertMine(
-  "If you live inside a box, you will never be able to create them, to do that you gotta live outside."
-);
-insertMine(
-  "Not every situations can be handled by playing by the book, it’s isn’t always a right approach to every solution, you gotta be flexible to take actions."
-);
-insertMine(
-  "Know the difference between working hard and working smart, working hard 9-5 won’t put you ahead, working smart will."
-);
-insertMine(
-  "Wisdom is to know the difference between discussion and argument, discussion is finding out what is right, argument is proving who is right."
-);
-insertMine(
-  "Speak to people in a way that if they died the next day you’d be satisfied with the last thing you said to them. "
-);
+// insertMine(
+//   "If you live inside a box, you will never be able to create them, to do that you gotta live outside."
+// );
+// insertMine(
+//   "Not every situations can be handled by playing by the book, it’s isn’t always a right approach to every solution, you gotta be flexible to take actions."
+// );
+// insertMine(
+//   "Know the difference between working hard and working smart, working hard 9-5 won’t put you ahead, working smart will."
+// );
+// insertMine(
+//   "Wisdom is to know the difference between discussion and argument, discussion is finding out what is right, argument is proving who is right."
+// );
+// insertMine(
+//   "Speak to people in a way that if they died the next day you’d be satisfied with the last thing you said to them. "
+// );
