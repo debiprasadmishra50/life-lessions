@@ -1,6 +1,8 @@
 import { readFileSync, writeFileSync } from "fs";
 
 function insertMine(quote: string) {
+  if (!quote.length) throw new Error("Quote not found!");
+
   let fileData: any = readFileSync("./src/resources/quotes.json").toString();
 
   fileData = JSON.parse(fileData);
