@@ -1,3 +1,4 @@
+import { readFileSync, writeFileSync } from "fs";
 import insertMine from "./insert";
 
 // insertMine("Be Ashamed to die until you've won victory for humanity.");
@@ -13,8 +14,6 @@ import insertMine from "./insert";
 // insertMine("Make mistakes, Learn from them, Don't regret them. Because regrets are hardest thing to carry when you get older.");
 
 // insertMine("It's always better to regret for the things that you did than you didn't.");
-
-// insertMine("Make mistakes, Learn from them, Don't regret them.");
 
 // insertMine("Don't just aspire to make a living, aspire to make a difference");
 

@@ -1,5 +1,7 @@
 import { readFileSync, writeFileSync } from "fs";
 
+type MyArray = { [key: string]: string }[];
+
 function insertMine(quote: string) {
   if (!quote.length) throw new Error("Quote not found!");
 
@@ -8,7 +10,7 @@ function insertMine(quote: string) {
   fileData = JSON.parse(fileData);
 
   const { mine } = fileData;
-  mine as Array<{ string: string }>;
+  mine as MyArray;
 
   mine.push({ [mine.length + 1]: quote });
 
