@@ -102,3 +102,13 @@ import insertMine from "./insert";
 // insertMine(
 //   "Speak to people in a way that if they died the next day you’d be satisfied with the last thing you said to them. "
 // );
+
+// insertMine("It's better to ask forgiveness than permission.");
+
+// insertMine("Almost nothing material is needed for a happy life, for he who has understood existence.");
+
+// insertMine(
+//   "Be the reason someone smiles. Be the reason someone feels loved and believes in the goodness in people."
+// );
+
+// insertMine("Be mindful. Be grateful. Be positive. Be true. Be kind. Be Wiser");
