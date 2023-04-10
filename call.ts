@@ -103,7 +103,7 @@ import insertMine from "./insert";
 //   "Speak to people in a way that if they died the next day you’d be satisfied with the last thing you said to them. "
 // );
 
-// insertMine("It's better to ask forgiveness than permission.");
+// insertMine("It's easier and better to ask forgiveness than permission.");
 
 // insertMine("Almost nothing material is needed for a happy life, for he who has understood existence.");
 
