@@ -17,15 +17,30 @@ function App() {
   }, []);
 
   return (
+    // <Container fluid className="cover">
+    //   <h1 className="heading">Life Lessons</h1>
+    //   <Row>
+    //     <Col>
+    //       <section id="main" style={{ maxHeight: "100vh", overflowY: "scroll" }}>
+    //         <Main main={main} />
+    //       </section>
+    //     </Col>
+    //     <Col className="d-md-block">
+    //       <section id="mine" style={{ maxHeight: "100vh", overflowY: "scroll" }}>
+    //         <Mine mine={mine} />
+    //       </section>
+    //     </Col>
+    //   </Row>
+    // </Container>
     <Container fluid className="cover">
       <h1 className="heading">Life Lessons</h1>
       <Row>
-        <Col>
+        <Col xs={12} md={6}>
           <section id="main" style={{ maxHeight: "100vh", overflowY: "scroll" }}>
             <Main main={main} />
           </section>
         </Col>
-        <Col>
+        <Col xs={12} md={6}>
           <section id="mine" style={{ maxHeight: "100vh", overflowY: "scroll" }}>
             <Mine mine={mine} />
           </section>

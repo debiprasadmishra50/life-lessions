@@ -28,3 +28,10 @@
     color: lightcyan;
   }
 }
+
+@media (max-width: 480px) and (min-width: 320px) {
+  /*  */
+  section {
+    display: block;
+  }
+}
