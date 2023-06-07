@@ -113,8 +113,8 @@ import insertMine from "./insert";
 
 // insertMine("Be mindful. Be grateful. Be positive. Be true. Be kind. Be Wiser");
 
-insertMine(
-  "The major barrier to skill acquisition isn't intellectual, it's emotional. Once you realise that, you see things more clearly."
-);
+// insertMine(
+//   "The major barrier to skill acquisition isn't intellectual, it's emotional. Once you realise that, you see things more clearly."
+// );
 
-insertMine("If knowledge is power, persistent learning is Superpower.");
+// insertMine("If knowledge is power, persistent learning is Superpower.");
