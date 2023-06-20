@@ -120,3 +120,7 @@ import insertMine from "./insert";
 // insertMine("If knowledge is power, persistent learning is Superpower.");
 
 // insertMine("Success is not final, failure is not fatal: it is the courage to continue that counts.");
+
+// insertMine(
+//   "There are two wolves, One is darkness and despair, The other is Light and Hope, Which Wolf Wins? WHICHEVER ONE YOU FEED."
+// );
