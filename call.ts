@@ -126,3 +126,7 @@ import insertMine from "./insert";
 // );
 
 // insertMine("Live as if you were to die tomorrow. Learn as if you were to live forever.");
+
+// insertMine(
+//   "To understand another human being, you must gain some insight into the conditions which made him what he is."
+// );
