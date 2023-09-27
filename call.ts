@@ -124,3 +124,5 @@ import insertMine from "./insert";
 // insertMine(
 //   "There are two wolves, One is darkness and despair, The other is Light and Hope, Which Wolf Wins? WHICHEVER ONE YOU FEED."
 // );
+
+// insertMine("Live as if you were to die tomorrow. Learn as if you were to live forever.");
