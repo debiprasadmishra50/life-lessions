@@ -130,3 +130,5 @@ import insertMine from "./insert";
 // insertMine(
 //   "To understand another human being, you must gain some insight into the conditions which made him what he is."
 // );
+
+// insertMine("The Tragedy of life is not death, but what we let die inside of us while we live.");
